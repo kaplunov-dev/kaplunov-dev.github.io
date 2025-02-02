@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #00aaff; /* Сине-голубой цвет */
+}
+
+nav {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+nav a {
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    color: #333;
+}
